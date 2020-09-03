@@ -1,0 +1,11 @@
+{
+  "name": "recursive-jwt",
+  "version": "1.0.0",
+  "description": "If you're asking yourself why i made this. i'll simple answer: Because i can. lol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FreeCode",
+  "license": "ISC"
+}

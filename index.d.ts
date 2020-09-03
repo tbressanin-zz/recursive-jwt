@@ -1,0 +1,1 @@
+export function getJwt(n: number, o: any): string;
