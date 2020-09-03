@@ -1,1 +1,1 @@
-export function getJwt(n: number, o: any): string;
+export function getJwt(n: number, o: { token: string }): string;
